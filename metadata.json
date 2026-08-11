@@ -1,0 +1,10 @@
+{
+  "name": "Remix Smart Relief Command Center",
+  "description": "Smart Humanitarian Relief \u0026 Disaster Logistics Command Center for the Iranian Red Crescent Society featuring LP/MILP optimization, Genetic Algorithm routing, GIS maps, scenario planning, and AI Chatbot.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
